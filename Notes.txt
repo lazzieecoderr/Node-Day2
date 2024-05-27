@@ -1,0 +1,25 @@
+Node Introduction :
+     	Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to run JavaScript code outside of a web browser. 
+       It is designed to be efficient and scalable, making it well-suited for building server-side and networked applications. 
+       Node.js is built on the V8 JavaScript engine, the same engine that powers Google Chrome, and it uses a non-blocking, event-driven architecture that makes it ideal for handling asynchronous tasks and I/O operations.
+ 
+Non-blocking I/O: (async operation)
+    Node.js uses an event loop to handle I/O operations in a non-blocking manner. This allows it to efficiently handle many concurrent   connections without the need for multiple threads.
+Event-driven:
+   Events triggered by user actions or system events
+
+In-Built Packages: 
+These are packages that come with Node.js, and you can use them without installing anything.
+Third-Party Packages: 
+These are packages created by the Node.js community or other developers. You need to install them using npm.
+Custom Packages: 
+These are packages that you or your team may create for specific use cases.
+
+Express:
+is a popular and web application framework for Node.js. It is designed to simplify the process of building robust and scalable web applications and APIs by providing a set of essential features and tools.               
+Express.js is known for its simplicity, flexibility, and performance, making it a preferred choice for many developers.
+Main features:
+·      Middleware - (authentication, authorization)
+·      Routing
+·      HTTP Utility Methods
+·      Error Handling
